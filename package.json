@@ -1,0 +1,24 @@
+{
+  "name": "notesgen-form",
+  "version": "1.0.0",
+  "description": "Form fields and validations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aabir1/notesgen-forms.git"
+  },
+  "keywords": [
+    "Forms",
+    "ReactJs",
+    "Forms"
+  ],
+  "author": "Aabir Hussain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aabir1/notesgen-forms/issues"
+  },
+  "homepage": "https://github.com/Aabir1/notesgen-forms#readme"
+}
